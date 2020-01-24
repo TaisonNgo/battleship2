@@ -1,4 +1,5 @@
-# this is a battle ship game,  
+# this is a battle ship game,
+# line 2
 
 # start with a grid of 3 x 3 and just one tiny ship, dingy
 
